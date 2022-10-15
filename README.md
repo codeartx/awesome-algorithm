@@ -1,11 +1,12 @@
 
     
-# k-algorithm 解构算法
+# Awesome Algorithm 解构算法
 --
 以独特的思考、精准的文字、直观的例图剖析编程中最常用、最抽象、最复杂的算法、数据结构、并发编程、一致性安全等问题。
 
-![](imgs/algorithm.png)
+[完整脑图](http://kjeek.com/algo/awesome-algorithm/)
 
+![](imgs/algorithm.png)
 
 ### 红黑树
 
